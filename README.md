@@ -15,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo: 
 
-https://portfolio-rosy-phi-78.vercel.app/
+https://crypto-react-firebase-main.vercel.app/
 
 ![image](https://i.ibb.co/2gZMzQd/cryptobase.png)
 
