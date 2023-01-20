@@ -1,8 +1,7 @@
 # Getting Started with Create React App
 
-Project From Code Commerce
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+La idea del proyecto era usar una api para fetchear las top 10 crypto, hacer un display de las mismas, tambien implemente 
+una base de datos para que una persona se pueda registrar con firebase y que esta pudiera guardar monedas como favoritas para poder seguirlas.
 
 ## Built With: 
 
