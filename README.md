@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 
-La idea del proyecto era usar una api para fetchear las top 10 crypto, hacer un display de las mismas, tambien implemente 
-una base de datos para que una persona se pueda registrar con firebase y que esta pudiera guardar monedas como favoritas para poder seguirlas.
+"Crypto Dashboard i made to learn how to fetch an API with Axios and create a login with Firebase where the user can sign up and login to add favorite cryptos to their account in order to track them."
 
 ## Built With: 
 
